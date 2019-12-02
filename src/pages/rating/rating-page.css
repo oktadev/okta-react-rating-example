@@ -1,0 +1,49 @@
+.rating-form {
+  width: 50%;
+  margin: 1rem auto;
+  padding: 1rem;
+}
+
+.heading {
+  padding: .5rem;
+  background-color: black;
+  color: white;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.form-input {
+  margin: 1rem;
+}
+
+.form-input label {
+  font-weight: bold;
+  display: block;
+}
+
+.form-input input,
+.form-input textarea {
+  font-size: 1.5rem;
+  width: 100%;
+}
+
+.form-input textarea {
+  height: 5rem;
+}
+
+.form-input.rating {
+  text-align: right;
+}
+
+.form-input.rating .rating {
+  font-size: 2rem;
+}
+
+.actions {
+  padding: 1rem;
+  text-align: right;
+}
+
+.actions button {
+  padding: .5rem;
+}

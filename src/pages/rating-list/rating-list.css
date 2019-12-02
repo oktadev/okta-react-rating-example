@@ -1,0 +1,23 @@
+table {
+  width: 80%;
+  margin: 1rem auto;
+  font-size: 1.25rem;
+  border-collapse: collapse;
+}
+
+table thead {
+  background-color: black;
+  color: #FFF;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: .5rem;
+}
+
+td.rating-value {
+  text-align: center;
+}
